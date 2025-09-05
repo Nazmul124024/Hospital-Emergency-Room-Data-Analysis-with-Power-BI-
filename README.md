@@ -1,0 +1,2 @@
+# Hospital-Emergency-Room-Data-Analysis-with-Power-BI-
+Data Preparation: Integrating and cleaning patient data to ensure accuracy and consistency.  Key Metric Analysis: Calculating crucial KPIs such as patient wait times, admission rates, and satisfaction scores.  Data Visualization: Designing a comprehensive dashboard to visualize patient demographics, referral departments, and key operational trends.
